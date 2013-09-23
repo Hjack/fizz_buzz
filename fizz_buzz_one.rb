@@ -17,4 +17,4 @@ class Fizz
 
 end
 
-puts x = Fizz.new(15).fizz_buzz
+puts x = Fizz.new(60).fizz_buzz
