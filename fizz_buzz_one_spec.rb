@@ -1,5 +1,6 @@
 require './fizz_buzz_one'
 
+
 describe Fizz do
 	it 'should return "FizzBuzz" if evenly divisible by 3 or 5' do
 		output = 'FizzBuzz'
